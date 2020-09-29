@@ -1,0 +1,6 @@
+module Pods_NavigationAndRedux_NavigationAndReduxTests {
+  umbrella header "Pods-NavigationAndRedux-NavigationAndReduxTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

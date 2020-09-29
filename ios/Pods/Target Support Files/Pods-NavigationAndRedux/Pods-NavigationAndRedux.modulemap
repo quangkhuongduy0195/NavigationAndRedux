@@ -1,0 +1,6 @@
+module Pods_NavigationAndRedux {
+  umbrella header "Pods-NavigationAndRedux-umbrella.h"
+
+  export *
+  module * { export * }
+}
